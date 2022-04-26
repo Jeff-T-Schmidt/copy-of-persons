@@ -1,0 +1,24 @@
+{
+  "name": "copy-of-persons",
+  "version": "1.0.0",
+  "description": "Joe's persons",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeff-T-Schmidt/copy-of-persons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeff-T-Schmidt/copy-of-persons/issues"
+  },
+  "homepage": "https://github.com/Jeff-T-Schmidt/copy-of-persons#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
